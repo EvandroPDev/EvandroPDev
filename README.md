@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EvandroPDev
 - 👀 I’m interested in freelances, because i current got a lovely job
-- 🌱 I’m currently learning Js, Ts, React, Node, Sequelize and postegres
+- 🌱 I’m currently learning Js, Ts, React, Node, Sequelize and postgres
 - 💞️ I’m looking to collaborate on some interesting works
 - 📫 How to reach me @evandrop_020, my Instagram
 
