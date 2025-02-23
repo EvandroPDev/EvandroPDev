@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @EvandroPDev
-- 🌱 I already work with Js, Ts, React, Node, Sequelize, Postgres, Docker, aws.
-- 💞️ I’m looking to collaborate on some interesting works
-- 📫 How to reach me @evandrop_020, my Instagram
+👋 Hi, I’m @EvandroPDev
+
+- 🌱 I'm currently working with **AWS** and deeply focused on cloud solutions in my current job.
+- 💻 I have experience with **JavaScript (JS), TypeScript (TS), React, Node.js, Sequelize, Postgres, Docker**.
+- 📚 In my spare time, I’m studying **reverse engineering** to deepen my understanding of software internals and security.
+- 🎓 I’m pursuing a degree in **Software Engineering** to further expand my technical skills and knowledge.
+- 💞️ I’m always open to collaborating on exciting projects and exploring new challenges.
+- 📫 Feel free to reach out to me on **Instagram** @evandrop_020.
 
 <!---
 EvandroPDev/EvandroPDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
